@@ -1,0 +1,5 @@
+package com.example.practica_primer_trimestre_jorge_carlos_parra_2dam.Controlador
+
+import com.example.practica_primer_trimestre_jorge_carlos_parra_2dam.Modelos.JSONempleados
+
+class EmpleadosInfo : ArrayList<JSONempleados>()
